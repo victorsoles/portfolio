@@ -1,12 +1,11 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <div>
-    <div class="bg-blue-500 text-center">Oi</div>
-  </div>
+    <div class="text-center bg-blue-400 p-5 rounded-2xl">
+        <h1>Hello Word</h1>
+    </div>
 </template>
 
-<style scoped>
+<script setup>
+</script>
+
+<style setup>
 </style>
