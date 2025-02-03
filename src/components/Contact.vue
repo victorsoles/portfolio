@@ -125,7 +125,7 @@ const submitForm = () => {
 }
 
 .background-green-hover:hover {
-    background-color: #00bd95; /* Cor mais escura para o hover */
+    background-color: #00bd95;
 }
 
 .background-green2-hover {
@@ -133,6 +133,6 @@ const submitForm = () => {
 }
 
 .background-green2-hover:hover {
-    background-color: #009b7a; /* Cor mais escura para o hover */
+    background-color: #009b7a;
 }
 </style>
