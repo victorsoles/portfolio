@@ -33,7 +33,7 @@
                         target="_blank"
                         class="bg-gray-800 p-4 rounded-full shadow-md hover:bg-gray-700 transition flex items-center justify-center"
                     >
-                        <img class="h-6 w-auto opacity-90" src="/images/icons/linkedin.png" alt="Link Linkedin">
+                        <img class="h-5 w-auto opacity-90" src="/images/icons/linkedin.png" alt="Link Linkedin">
                     </a>
 
                     <a
@@ -41,7 +41,7 @@
                         target="_blank"
                         class="bg-gray-800 p-4 rounded-full shadow-md hover:bg-gray-700 transition flex items-center justify-center"
                     >
-                        <img class="h-7 w-auto opacity-90" src="/images/icons/github.png" alt="Link GitHub">
+                        <img class="h-6 w-auto opacity-90" src="/images/icons/github.png" alt="Link GitHub">
                     </a>
 
                     <a
@@ -49,7 +49,7 @@
                         target="_blank"
                         class="bg-gray-800 p-4 rounded-full shadow-md hover:bg-gray-700 transition flex items-center justify-center"
                     >
-                        <img class="h-6 w-auto opacity-90" src="/images/icons/instagram.png" alt="link Instagram">
+                        <img class="h-5 w-auto opacity-90" src="/images/icons/instagram.png" alt="link Instagram">
                     </a>
                 </div>
             </div>
