@@ -13,8 +13,8 @@
                 <div class="relative bg-gray-800 rounded-xl shadow-lg p-6 transition hover:scale-104">
                     <h3 class="text-xl font-semibold mb-4">Relatórios de movimentações Financeiras</h3>
                     <p class="text-gray-400 text-sm">
-                        It uses a dictionary of over 200 Latin words, combined
-                        with a handful of model sentence.
+                        Geração de relatórios analíticos de receitas e despesas com filtros por período, 
+                        categoria e conta, gráficos interativos e exportação em PDF ou Excel para apoiar decisões financeiras.
                     </p>
                     <div class="absolute bottom-0 right-0 background-green-hover p-2 rounded-br-lg flex items-center justify-center cursor-pointer">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-white" viewBox="0 0 24 24" fill="currentColor">
@@ -27,8 +27,9 @@
                 <div class="relative bg-gray-800 rounded-xl shadow-lg p-6 transition hover:scale-104">
                     <h3 class="text-xl font-semibold mb-4">Conciliação bancária manual</h3>
                     <p class="text-gray-400 text-sm">
-                        It uses a dictionary of over 200 Latin words, combined
-                        with a handful of model sentence.
+                        	Ferramenta que cruza lançamentos internos com extratos bancários, 
+                            aponta divergências e permite marcar itens conciliados, mantendo histórico e assegurando a 
+                            integridade dos saldos.
                     </p>
                     <div class="absolute bottom-0 right-0 background-green-hover p-2 rounded-br-lg flex items-center justify-center cursor-pointer">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-white" viewBox="0 0 24 24" fill="currentColor">
@@ -41,7 +42,8 @@
                 <div class="relative bg-gray-800 rounded-xl shadow-lg p-6 transition hover:scale-104">
                     <h3 class="text-xl font-semibold mb-4">Automação de Registro Rural</h3>
                     <p class="text-gray-400 text-sm">
-                        O sistema gerencia o envio, validação e aprovação de documentos,
+                        O sistema gerencia o envio, validação e aprovação de documentos rurais,
+                        integrando com órgãos governamentais para garantir conformidade legal,
                         reduzindo burocracia e acelerando o processo de regularização
                     </p>
                     <div class="absolute bottom-0 right-0 background-green-hover p-2 rounded-br-lg flex items-center justify-center cursor-pointer">
@@ -55,8 +57,8 @@
                 <div class="relative bg-gray-800 rounded-xl shadow-lg p-6 transition hover:scale-104">
                     <h3 class="text-xl font-semibold mb-4">Dashboard de Formulários Customizados</h3>
                     <p class="text-gray-400 text-sm">
-                        It uses a dictionary of over 200 Latin words, combined
-                        with a handful of model sentence.
+                        Plataforma para criar formulários e dashboards de respostas de forma dinâmica,
+                        definir regras de validação e acompanhar respostas em tempo real por meio de indicadores personalizados.
                     </p>
                     <div class="absolute bottom-0 right-0 background-green-hover p-2 rounded-br-lg flex items-center justify-center cursor-pointer">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-white" viewBox="0 0 24 24" fill="currentColor">
@@ -67,10 +69,10 @@
 
                 <!-- Card 5 -->
                 <div class="relative bg-gray-800 rounded-xl shadow-lg p-6 transition hover:scale-104">
-                    <h3 class="text-xl font-semibold mb-4">Relatórios de movimentações Financeiras</h3>
+                    <h3 class="text-xl font-semibold mb-4">Envio de E-mails e Notificações Agendadas</h3>
                     <p class="text-gray-400 text-sm">
-                        It uses a dictionary of over 200 Latin words, combined
-                        with a handful of model sentence.
+                        Cada tarefa concluída dispara notificações instantâneas e e-mails automáticos em filas, 
+                        garantindo entrega confiável, escalável e sem impacto na performance da aplicação.
                     </p>
                     <div class="absolute bottom-0 right-0 background-green-hover p-2 rounded-br-lg flex items-center justify-center cursor-pointer">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-white" viewBox="0 0 24 24" fill="currentColor">
@@ -81,10 +83,10 @@
 
                 <!-- Card 6 -->
                 <div class="relative bg-gray-800 rounded-xl shadow-lg p-6 transition hover:scale-104">
-                    <h3 class="text-xl font-semibold mb-4">Relatórios de movimentações Financeiras</h3>
+                    <h3 class="text-xl font-semibold mb-4">Importação, Validação e Exportação de Dados</h3>
                     <p class="text-gray-400 text-sm">
-                        It uses a dictionary of over 200 Latin words, combined
-                        with a handful of model sentence.
+                        Processos robustos para importar CSV com pré-validação e aprovação administrativa, 
+                        além de exportar registros para Excel e PDF, facilitando integrações e auditorias.
                     </p>
                     <div class="absolute bottom-0 right-0 background-green-hover p-2 rounded-br-lg flex items-center justify-center cursor-pointer">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-white" viewBox="0 0 24 24" fill="currentColor">

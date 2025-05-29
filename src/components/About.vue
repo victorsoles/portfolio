@@ -5,7 +5,7 @@
                 <!-- Imagem -->
                 <div class="md:w-1/2 flex justify-center md:justify-start mb-8 md:mb-0">
                     <img
-                        src="/images/imgAbout.jpg"
+                        src="/images/imgAbout5.jpg"
                         alt="Victor Soles"
                         class="rounded-xl shadow-lg object-cover w-full max-w-sm"
                     />
