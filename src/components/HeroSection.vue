@@ -16,8 +16,8 @@
                 </p>
 
                 <a
-                    href="/portfolio/Victor-Soles-Curriculo.pdf"
-                    download="Victor-Soles-Curriculo.pdf"
+                    href="/portfolio/Curriculo-Victor-Soles.pdf"
+                    download="Curriculo-Victor-Soles.pdf"
                     class="background-green-hover text-white px-6 py-3 my-2 mr-5 rounded-xl shadow-md inline-block"
                 >
                     Currículo

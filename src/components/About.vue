@@ -65,8 +65,8 @@
 
                     <!-- Botão -->
                     <a 
-                        href="/portfolio/Victor-Soles-Curriculo.pdf"
-                        download="Victor-Soles-Curriculo.pdf"
+                        href="/portfolio/Curriculo-Victor-Soles.pdf"
+                        download="Curriculo-Victor-Soles.pdf"
                         class="background-green text-white px-6 py-3 mr-5 rounded-xl shadow-md hover:bg-green-400 transition"
                     >
                         Baixar Currículo
