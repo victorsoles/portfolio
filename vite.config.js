@@ -9,8 +9,4 @@ export default defineConfig({
         vue(),
         tailwindcss(),
     ],
-    build: {
-        outDir: 'dist',
-        assetsDir: 'assets' 
-    }
 })
