@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-gray-950">
+    <section id="about" class="bg-gray-950">
         <div class="text-white py-20 px-8 mx-auto max-w-6xl">
             <div class="flex flex-col md:flex-row max-w-6xl mx-auto items-center">
                 <!-- Imagem -->
@@ -44,9 +44,12 @@
 
                         <div class="bg-gray-700 p-6 rounded-b-lg">
                             <div v-show="activeTab === 'soft'" class="grid grid-cols-3 gap-4">
-                                <div class="p-2 bg-gray-800 text-white text-center rounded-lg shadow-md">Comunicação</div>
+                                <div class="p-2 bg-gray-800 text-white text-center rounded-lg shadow-md">Comunicação Eficaz</div>
                                 <div class="p-2 bg-gray-800 text-white text-center rounded-lg shadow-md">Trabalho em Equipe</div>
                                 <div class="p-2 bg-gray-800 text-white text-center rounded-lg shadow-md">Resolução de Problemas</div>
+                                <div class="p-2 bg-gray-800 text-white text-center rounded-lg shadow-md">Adaptabilidade e Proatividade</div>
+                                <div class="p-2 bg-gray-800 text-white text-center rounded-lg shadow-md">Inteligência Emocional</div>
+                                <div class="p-2 bg-gray-800 text-white text-center rounded-lg shadow-md">Gestão do tempo</div>
                             </div>
 
                             <div v-show="activeTab === 'hard'" class="grid grid-cols-3 gap-4">
@@ -61,9 +64,21 @@
                     </div>
 
                     <!-- Botão -->
-                    <button class="background-green text-white px-6 py-3 rounded-xl shadow-md hover:bg-green-400 transition">
+                    <a 
+                        href="/portfolio/Victor-Soles-Curriculo.pdf"
+                        download="Victor-Soles-Curriculo.pdf"
+                        class="background-green text-white px-6 py-3 mr-5 rounded-xl shadow-md hover:bg-green-400 transition"
+                    >
                         Baixar Currículo
-                    </button>
+                    </a>
+
+                    <a 
+                        href="https://github.com/victorsoles"
+                        target="_blank"
+                        class="text-gray-300 px-6 py-3 my-2 rounded-xl border-1 border-gray-400 shadow-md hover:bg-gray-700 cursor-pointer"
+                    >
+                        GitHub
+                    </a>
                 </div>
             </div>
         </div>

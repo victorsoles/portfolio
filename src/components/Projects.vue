@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-gray-900 text-white py-20 px-8">
+    <section id="projects" class="bg-gray-900 text-white py-20 px-8">
         <div class="max-w-6xl mx-auto">
             <!-- Título -->
             <h3 class="text-verde text-center font-medium mb-4">

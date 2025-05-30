@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-gray-900">
+    <section id="hero" class="bg-gray-900">
         <div
             class="text-white py-6 px-8 flex flex-col mx-auto max-w-6xl md:flex-row items-center justify-between"
         >
@@ -15,16 +15,20 @@
                     Trabalho principalmente com Laravel, Vue 3, Inertia.js e Tailwind CSS
                 </p>
 
-                <button
-                    class="background-green-hover text-white px-6 py-3 my-2 mr-5 rounded-xl shadow-md cursor-pointer"
+                <a
+                    href="/portfolio/Victor-Soles-Curriculo.pdf"
+                    download="Victor-Soles-Curriculo.pdf"
+                    class="background-green-hover text-white px-6 py-3 my-2 mr-5 rounded-xl shadow-md inline-block"
                 >
                     Currículo
-                </button>
-                <button
+                </a>
+
+                <a
+                    href="#projects"
                     class="text-gray-300 px-6 py-3 my-2 rounded-xl border-1 border-gray-400 shadow-md hover:bg-gray-700 cursor-pointer"
                 >
                     Veja meu trabalho
-                </button>
+                </a>
 
                 <!-- Ícones sociais -->
                 <div class="flex justify-center md:justify-start space-x-6 mt-8">

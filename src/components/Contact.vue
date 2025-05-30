@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-gray-900 text-white py-16 px-8">
+    <section id="contact" class="bg-gray-900 text-white py-16 px-8">
         <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
             <!-- Texto de Contato -->
             <div class="flex flex-col justify-center">
@@ -12,7 +12,7 @@
                 </p>
                 <div class="flex justify-center md:justify-start space-x-6 mt-8">
                     <a
-                        href="https://w.app/victorsoles"
+                        href="https://wa.me/5518996962987?text=Ol%C3%A1%2C%20vim%20pelo%20seu%20portf%C3%B3lio"
                         target="_blank"
                         class="background-green-hover p-4 rounded-full shadow-md hover:bg-gray-700 transition flex items-center justify-center"
                     >

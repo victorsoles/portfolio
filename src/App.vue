@@ -19,4 +19,10 @@
     import Contact from './components/Contact.vue';
     import Footer from './components/Footer.vue';
 </script>
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
   
