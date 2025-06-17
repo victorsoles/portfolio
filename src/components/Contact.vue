@@ -23,8 +23,8 @@
                         />
                     </a>
 
-                    <a
-                        href="https://www.instagram.com/victorsolles/"
+                    <a 
+                        href="https://mail.google.com/mail/?view=cm&fs=1&to=victorsoles09@gmail.com&su=Assunto%20do%20Email&body=Olá,%20gostaria%20de%20conversar" 
                         target="_blank"
                         class="bg-gray-800 p-4 rounded-full shadow-md hover:bg-gray-700 transition flex items-center justify-center"
                     >
@@ -63,7 +63,8 @@
 
             <!-- Formulário -->
             <form
-                @submit.prevent="submitForm"
+                action="https://formspree.io/f/xkgbbdpj"
+                method="post"
                 class="bg-gray-800 rounded-xl shadow-lg p-6 flex flex-col gap-4"
             >
                 <!-- Nome -->
@@ -111,12 +112,6 @@ const form = reactive({
     subject: '',
     message: '',
 });
-
-const submitForm = () => {
-    // Aqui você pode adicionar lógica para enviar o formulário
-    console.log('Form data:', form);
-    alert('Message sent!');
-};
 </script>
 
 <style scoped>
