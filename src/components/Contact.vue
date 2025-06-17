@@ -91,6 +91,8 @@
                     class="bg-gray-700 text-white rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-300"
                 ></textarea>
 
+                <input type="hidden" name="_next" value="https://victorsoles.github.io/portfolio/" />
+
                 <!-- Botão de envio -->
                 <button
                     type="submit"
