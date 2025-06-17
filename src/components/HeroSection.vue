@@ -62,8 +62,8 @@
             <div class="md:w-1/2 mt-10 md:mt-0 flex justify-center">
                 <div class="p-2 rounded-xl shadow-lg">
                     <img
-                        src="/images/heroTeste.png"
-                        alt="Tayyab Sajjad"
+                        src="/images/haha.png"
+                        alt="Victor Soles"
                         class="rounded-xl object-cover"
                     />
                 </div>
