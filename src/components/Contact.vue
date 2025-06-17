@@ -71,7 +71,7 @@
                 <input
                     type="text"
                     placeholder="Seu nome"
-                    v-model="form.name"
+                    name="name"
                     class="bg-gray-700 text-white rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-300"
                 />
 
@@ -79,14 +79,14 @@
                 <input
                     type="email"
                     placeholder="Seu Email"
-                    v-model="form.email"
+                    name="email"
                     class="bg-gray-700 text-white rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-300"
                 />
 
                 <!-- Mensagem -->
                 <textarea
                     placeholder="Sua Mensagem"
-                    v-model="form.message"
+                    name="message"
                     rows="4"
                     class="bg-gray-700 text-white rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-300"
                 ></textarea>
@@ -105,13 +105,6 @@
 
 <script setup>
 import { reactive } from 'vue';
-
-const form = reactive({
-    name: '',
-    email: '',
-    subject: '',
-    message: '',
-});
 </script>
 
 <style scoped>
